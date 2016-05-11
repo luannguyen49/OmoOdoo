@@ -1,0 +1,7 @@
+# compiled python files
+*.py[co]
+
+# hg stuff
+*.orig
+
+/bin/
