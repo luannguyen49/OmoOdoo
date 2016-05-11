@@ -1,3 +1,5 @@
-GreenOdoo-Runtime
-====================
-This branch is GreenOdoo-Runtime for Win32.
+Omo Odoo
+=========
+From Odoo revision
+End
+d467238 [I18N] Update translation terms from Transifex
