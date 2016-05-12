@@ -58,3 +58,338 @@ ERROR:  canceling statement due to user request
 LOG:  autovacuum launcher shutting down
 LOG:  shutting down
 LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 03:43:25 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 21:19:51 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 7036) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 33860) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 21:23:03 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1770CC8
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+WARNING:  pgstat wait timeout
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+WARNING:  pgstat wait timeout
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 21:23:58 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 21:33:23 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 21:34:05 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 21:36:17 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 2576) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 8968) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 21:36:21 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1770ED0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+WARNING:  pgstat wait timeout
+LOG:  autovacuum launcher process (PID 12364) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 21:36:57 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1770F38
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 32060) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 5288) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 21:37:23 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1770FA0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 19880) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+^CLOG:  database system was interrupted; last known up at 2016-05-12 21:37:52 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1771008
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 16964) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 18164) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+^CLOG:  database system was interrupted; last known up at 2016-05-12 21:38:14 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1771070
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:00:11 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:01:57 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:02:40 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:04:00 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:05:25 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:06:34 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  autovacuum launcher process (PID 35460) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  statistics collector process (PID 24636) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 22:06:41 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1771348
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 28812) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 15356) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+^CLOG:  database system was interrupted; last known up at 2016-05-12 22:06:42 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/17713B0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:08:04 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 29336) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 20192) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 22:08:13 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1771480
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 26184) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 22:08:23 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/17714E8
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 26340) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 22:08:27 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1771550
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+WARNING:  pgstat wait timeout
+LOG:  autovacuum launcher process (PID 22288) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 22:08:27 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/17715B8
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 15092) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-12 22:08:49 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1771620
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 7296) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+^CLOG:  database system was interrupted; last known up at 2016-05-12 22:08:50 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1771688
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 26612) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 33012) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+^CLOG:  database system was interrupted; last known up at 2016-05-12 22:08:55 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/17716F0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:21:08 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:21:26 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:22:58 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 9604) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 32916) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+^CLOG:  database system was interrupted; last known up at 2016-05-12 22:23:09 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/1771890
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-12 22:23:39 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
