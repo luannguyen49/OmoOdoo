@@ -7,3 +7,6 @@ Step 2 : Copy thu muc odoo vua tai ve vo OmoOdoo
 Step 3 : Config addon_paths trong file openerp-server.conf
  + ; addons_path=‪ /../odoo/addons,D:/Works/Gold/Gold-Project/OdooModule
 Step 4 : chay file start.bat
+database : gold
+username : admin
+pass : gold
