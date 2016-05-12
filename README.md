@@ -1,6 +1,7 @@
 Omo Odoo
 =========
 Huong Dan Config Local
+
 Step 1 : Donwload Server Odoo tai
  + https://github.com/odoo/odoo
 
