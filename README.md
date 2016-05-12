@@ -10,3 +10,5 @@ Step 4 : chay file start.bat
 database : gold
 username : admin
 pass : gold
+
+Step 5 : Upgrade for gold ( menu-> apps --> gold  --> upgrade)
