@@ -5,6 +5,5 @@
 *.orig
 
 /bin/
-/Gold-server-8/
-/Gold-server-9/
-/odoo/
+/Gold-server/
+/OdooModule/

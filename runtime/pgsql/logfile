@@ -489,3 +489,383 @@ LOG:  database system is shut down
 LOG:  database system was shut down at 2016-05-12 23:11:02 HKT
 LOG:  database system is ready to accept connections
 LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 14344) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 21440) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+^CLOG:  database system was interrupted; last known up at 2016-05-12 23:11:32 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/2715580
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-13 00:01:26 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-14 01:36:09 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-14 10:32:37 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-14 11:22:06 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-14 11:22:24 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-14 11:23:52 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-14 11:50:30 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-14 12:27:00 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:01:06 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:09:24 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:12:06 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:15:44 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:16:14 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:18:07 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:20:15 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+FATAL:  terminating connection due to administrator command
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:22:57 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+FATAL:  terminating connection due to administrator command
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:23:50 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+FATAL:  terminating connection due to administrator command
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:24:26 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 3212) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 5820) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2016-05-16 00:24:30 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/27160F8
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:24:53 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+FATAL:  terminating connection due to administrator command
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:25:53 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+FATAL:  terminating connection due to administrator command
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:28:57 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:29:34 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:29:53 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+FATAL:  terminating connection due to administrator command
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:30:28 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:30:41 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:31:13 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:32:03 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+FATAL:  terminating connection due to administrator command
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-05-16 00:32:55 HKT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+FATAL:  terminating connection due to administrator command
+FATAL:  terminating connection due to administrator command
+FATAL:  terminating connection due to administrator command
+FATAL:  terminating connection due to administrator command
+FATAL:  terminating connection due to administrator command
+LOG:  autovacuum launcher shutting down
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher shutting down

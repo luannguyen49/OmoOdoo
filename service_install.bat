@@ -1,3 +1,3 @@
-title GreenOdoo - www.GreenOpenERP.com
+title OMO - www.OMO.com
 COLOR 0A
-"%CD%"\runtime\bin\nssm.exe install GreenOdoo-8.0 "%CD%"\start.bat
+"%CD%"\runtime\bin\nssm.exe install OmoOdoo-8.0 "%CD%"\start9.bat
