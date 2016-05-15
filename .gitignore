@@ -7,5 +7,4 @@
 /bin/
 /Gold-server/
 /OdooModule/
-/runtime/pgsql/data/
-/runtime/pgsql/logfile/
+/pgsql/*
